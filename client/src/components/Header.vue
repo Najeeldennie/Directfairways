@@ -7,7 +7,7 @@
         :to="{
           name: 'songs'
         }">
-        TabTracker
+        Direct Fairway Play 
       </router-link>
     </v-toolbar-title>
 
